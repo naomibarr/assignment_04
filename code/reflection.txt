@@ -1,6 +1,7 @@
-Write your reflection here.
-
-See reflection.md for what makes a good reflection — be specific, use the
-terminology from this assignment (lineage, grain, element function, Series.apply,
-row apply / axis=1, left merge, NaN, coerce, copy-add-return, boolean index,
-export), and make it actionable.
+I learned how to use a left merge to combine data while keeping track \
+of its lineage and grain. I struggled a little with understanding when \
+to use Series.apply with an element function versus row apply (axis=1). \
+I also learned how to handle missing values (NaN) and coerce data into \
+the correct format. I got more practice using copy-add-return, boolean \
+indexing to filter data, and building an export to curate a view for \
+someone else.
